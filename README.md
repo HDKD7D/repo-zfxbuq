@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: staceymanos@hotmail.com, lizzseline@msn.com
-At: 2026-09-16 14:50:57
-Id: T6codHCX
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: kjlopez7878@aol.com, stephen.bennett07@yahoo.com
+At: 2026-09-16 14:51:36
+Id: Sg0PQjYG
